@@ -315,4 +315,5 @@ while run:
 
 # Τερματισμός του Pygame
 pygame.quit()
+
 sys.exit()
